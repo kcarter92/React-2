@@ -1,0 +1,17 @@
+.search-box {
+  text-align: center;
+  color: black;
+}
+
+.card-header {
+  border-bottom: 1px solid white;
+}
+
+.btn {
+  padding: 20px;
+}
+
+input {
+  margin-bottom: 20px;
+  text-align: center
+}
